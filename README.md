@@ -17,3 +17,8 @@ Open terminal. At root:
     
     Install the dependencies (from requirements.txt):
     pip install -r requirements.txt
+
+
+## Env example and settings ##
+At this point (sprint 1, ticket 6) not all of the variables in .env.example are read.
+The ones being read right now are API_HOST and API_PORT. The rest are prepped as placeholders for later.
