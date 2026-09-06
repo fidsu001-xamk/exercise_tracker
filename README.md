@@ -67,19 +67,6 @@ Normally you don't need to build more than once, unless you make changes.
 ## 4. Backend development environment ##
 Backend uses FastAPI with Uvicorn. Virtual environment's requirements are listed in backend/requirements.txt.
 
-Setup:
-Open terminal. At root:
-    cd backend
-    
-    Create a Python virtual environment:
-    python -m venv .venv
-
-    On Windows Powershell, activate the virtual environment:
-     .\.venv\Scripts\Activate.ps1
-    
-    Install the dependencies (from requirements.txt):
-    pip install -r requirements.txt
-
 
 ## 5. Frontend ##
 The frontend uses React and Vite.
